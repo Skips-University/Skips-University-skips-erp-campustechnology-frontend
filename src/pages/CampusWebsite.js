@@ -169,7 +169,7 @@ function CampusWebsite() {
                 color: colors.navy
               }}
             >
-              Your campus journey starts here.
+              Your journey starts here.
             </Typography>
             <Typography sx={{ maxWidth: 480, color: colors.navy, fontSize: { xs: 13, md: 15 }, lineHeight: 1.45 }}>
               Welcome to the SKIPS digital campus. Choose an option to continue.
